@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local test images and datasets
+test_image/
+data/
+dataset/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
